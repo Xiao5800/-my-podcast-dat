@@ -1,0 +1,54 @@
+{
+  "fetched_at": "2026-05-23T20:38:00",
+  "total": 6,
+  "episodes": [
+    {
+      "title": "VOA Learning English - Education Report",
+      "description": "VOA Learning English education news for English learners.",
+      "audio_url": "https://voalearningenglish.podbean.com/mf/feed/sample_education.mp3",
+      "duration_sec": 360,
+      "pub_date": "2026-05-23",
+      "source": "VOA Learning English"
+    },
+    {
+      "title": "BBC 6 Minute English - Why we love sweet food",
+      "description": "BBC 6 Minute English explores our love for sweet food.",
+      "audio_url": "https://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads.rss",
+      "duration_sec": 392,
+      "pub_date": "2026-05-22",
+      "source": "BBC 6 Minute English"
+    },
+    {
+      "title": "VOA Learning English - Health Report",
+      "description": "VOA Learning English health news.",
+      "audio_url": "https://voalearningenglish.podbean.com/mf/feed/sample_health.mp3",
+      "duration_sec": 300,
+      "pub_date": "2026-05-21",
+      "source": "VOA Learning English"
+    },
+    {
+      "title": "BBC 6 Minute English - How to stay motivated",
+      "description": "BBC 6 Minute English on staying motivated.",
+      "audio_url": "https://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads.rss",
+      "duration_sec": 375,
+      "pub_date": "2026-05-20",
+      "source": "BBC 6 Minute English"
+    },
+    {
+      "title": "VOA Learning English - Technology Report",
+      "description": "VOA technology news for English learners.",
+      "audio_url": "https://voalearningenglish.podbean.com/mf/feed/sample_tech.mp3",
+      "duration_sec": 330,
+      "pub_date": "2026-05-19",
+      "source": "VOA Learning English"
+    },
+    {
+      "title": "BBC 6 Minute English - Food and mood",
+      "description": "BBC 6 Minute English on the link between food and mood.",
+      "audio_url": "https://www.bbc.co.uk/programmes/p02pc9xz/episodes/downloads.rss",
+      "duration_sec": 388,
+      "pub_date": "2026-05-18",
+      "source": "BBC 6 Minute English"
+    }
+  ]
+}
